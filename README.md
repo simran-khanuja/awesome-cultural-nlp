@@ -5,23 +5,32 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Survey](#survey)
 * [Dataset](#dataset)
 * [Image Captioning](#image-captioning)
+* [Models](#models)
+  * [Vision and Language](#vision-and-language)
 
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| CIC: A framework for Culturally-aware Image Captioning | IJCAI 2024 | [2402.05374](https://arxiv.org/abs/2402.05374) | [Webpage](https://shane3606.github.io/cic/) | []() |
+|  |  | []() | []() | []() |
 
 ## Dataset
-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-
 |  |  | []() | []() | []() |
 
 ## Image Captioning
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| CIC: A framework for Culturally-aware Image Captioning | IJCAI 2024 | [2402.05374](https://arxiv.org/abs/2402.05374) | [Webpage](https://shane3606.github.io/cic/) | []() |
 |  |  | []() | []() | []() |
+
+## Models
+
+### Vision and Language
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| GIVL: Improving Geographical Inclusivity of Vision-Language Models With Pre-Training Methods | CVPR 2023 | [2301.01893](https://arxiv.org/abs/2301.01893) | [Code (not released yet)](https://github.com/WadeYin9712/GIVL) | []() |
+
 
 
 
