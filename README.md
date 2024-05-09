@@ -9,7 +9,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| CIC: A framework for Culturally-aware Image Captioning |  | []() | []() | []() |
+| CIC: A framework for Culturally-aware Image Captioning | IJCAI 2024 | [2402.05374](https://arxiv.org/abs/2402.05374) | [Webpage](https://shane3606.github.io/cic/) | []() |
 
 ## Dataset
 
@@ -26,7 +26,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-cultural-nlp/pulls) or email (khanuja.simran7@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) or email (khanuja.simran7@gmail.com) to add links.
 
 ## Licenses
 License
