@@ -34,12 +34,14 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | GIVL: Improving Geographical Inclusivity of Vision-Language Models With Pre-Training Methods | CVPR 2023 | [2301.01893](https://arxiv.org/abs/2301.01893) | [Code (not released yet)](https://github.com/WadeYin9712/GIVL) | []() |
 
 ## Analysis
+
+### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV
 of Text-To-Image Models | arxiv | [2310.01929](https://arxiv.org/abs/2310.01929) | [Code (not released yet)](https://github.
 com/venturamor/CulText-2-I) | []() |
-
+| Inspecting the Geographical Representativeness of Images from Text-to-Image Models | ICCV 2023 | [2305.11080](https://arxiv.org/abs/2305.11080) | []() | []() |
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) or email (khanuja.simran7@gmail.com) to add links.
