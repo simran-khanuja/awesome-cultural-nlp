@@ -9,15 +9,23 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
   * [Vision and Language](#vision-and-language)
 * [Analysis](#analysis)
   * [Text-to-image](#text-to-image)
+  * [LLMs](#llms)
+* [Alignment](#alignment)
+
 
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Challenges and Strategies in Cross-Cultural NLP | ACL 2022 | [2203.10020](https://arxiv.org/abs/2203.10020) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies | arxiv 2024 | [2404.15238](https://arxiv.org/abs/2404.15238) | []() | []() |
+| NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
+| Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [EMNLP Findings 509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
+| GeoDE: a Geographically Diverse Evaluation Dataset for Object Recognition | Neurips 2023 | [2301.02560](https://arxiv.org/abs/2301.02560) | [Code and Data](https://geodiverse-data-collection.cs.princeton.edu/) | []() |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
@@ -32,16 +40,39 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | GIVL: Improving Geographical Inclusivity of Vision-Language Models With Pre-Training Methods | CVPR 2023 | [2301.01893](https://arxiv.org/abs/2301.01893) | [Code (not released yet)](https://github.com/WadeYin9712/GIVL) | []() |
+|  |  | []() | []() | []() |
 
 ## Analysis
 
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV
-of Text-To-Image Models | arxiv | [2310.01929](https://arxiv.org/abs/2310.01929) | [Code (not released yet)](https://github.
-com/venturamor/CulText-2-I) | []() |
+| Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV of Text-To-Image Models | arxiv 2023 | [2310.01929](https://arxiv.org/abs/2310.01929) | [Code (not released yet)](https://github.com/venturamor/CulText-2-I) | []() |
 | Inspecting the Geographical Representativeness of Images from Text-to-Image Models | ICCV 2023 | [2305.11080](https://arxiv.org/abs/2305.11080) | []() | []() |
+| Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale | FAccT '23 | [2211.03759](https://arxiv.org/abs/2211.03759) | []() | []() |
+| DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [https://arxiv.org/abs/2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
+|  |  | []() | []() | []() |
+
+### LLMs
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
+|  |  | []() | []() | []() |
+
+### VLMs
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing | arxiv 2024 | [2402.06015](https://arxiv.org/pdf/2402.06015) | []() | []() |
+|  |  | []() | []() | []() |
+
+
+
+## Alignment
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Unintended Impacts of LLM Alignment on Global Representation | arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
+|  |  | []() | []() | []() |
+
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) or email (khanuja.simran7@gmail.com) to add links.
