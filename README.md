@@ -50,7 +50,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV of Text-To-Image Models | arxiv 2023 | [2310.01929](https://arxiv.org/abs/2310.01929) | [Code (not released yet)](https://github.com/venturamor/CulText-2-I) | []() |
 | Inspecting the Geographical Representativeness of Images from Text-to-Image Models | ICCV 2023 | [2305.11080](https://arxiv.org/abs/2305.11080) | []() | []() |
 | Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale | FAccT '23 | [2211.03759](https://arxiv.org/abs/2211.03759) | []() | []() |
-| DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [https://arxiv.org/abs/2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
+| DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
+| ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation | arxiv 2024 | [2401.06310](https://arxiv.org/abs/2401.06310) | []() | []() |
 |  |  | []() | []() | []() |
 
 ### LLMs
