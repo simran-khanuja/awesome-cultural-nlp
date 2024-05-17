@@ -10,6 +10,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Analysis](#analysis)
   * [Text-to-image](#text-to-image)
   * [LLMs](#llms)
+* [Methodology](#methodology)
+  * [Data](#data)
 * [Alignment](#alignment)
 
 
@@ -26,6 +28,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
 | Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [EMNLP Findings 509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
 | GeoDE: a Geographically Diverse Evaluation Dataset for Object Recognition | Neurips 2023 | [2301.02560](https://arxiv.org/abs/2301.02560) | [Code and Data](https://geodiverse-data-collection.cs.princeton.edu/) | []() |
+| Multi-lingual and Multi-cultural Figurative Language Understanding | ACL Findings 2023 | [2305.16171](https://arxiv.org/abs/2305.16171) | [Code](https://github.com/simran-khanuja/Multilingual-Fig-QA) | []() |
+| Visually Grounded Reasoning across Languages and Cultures | EMNLP 2021 | [2109.13238](https://arxiv.org/abs/2109.13238) | [Website](https://marvl-challenge.github.io/) | EMNLP 2021 Best Paper |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
@@ -74,6 +78,13 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Unintended Impacts of LLM Alignment on Global Representation | arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
 |  |  | []() | []() | []() |
 
+## Methodology
+
+### Data
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Cultural Concept Adaptation on Multimodal Reasoning | EMNLP 2023 | [EMNLP Main 18](https://aclanthology.org/2023.emnlp-main.18.pdf) | []() | []() |
+|  |  | []() | []() | []() |
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/simran-khanuja/awesome-cultural-nlp/pulls) or email (khanuja.simran7@gmail.com) to add links.
