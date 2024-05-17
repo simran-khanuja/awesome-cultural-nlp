@@ -28,6 +28,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
 | Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [EMNLP Findings 509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
 | GeoDE: a Geographically Diverse Evaluation Dataset for Object Recognition | Neurips 2023 | [2301.02560](https://arxiv.org/abs/2301.02560) | [Code and Data](https://geodiverse-data-collection.cs.princeton.edu/) | []() |
+| SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models | ACL 2023 | [2305.11840](https://arxiv.org/pdf/2305.11840) | [Code](https://github.com/google-research-datasets/seegull) | []() |
 | Multi-lingual and Multi-cultural Figurative Language Understanding | ACL Findings 2023 | [2305.16171](https://arxiv.org/abs/2305.16171) | [Code](https://github.com/simran-khanuja/Multilingual-Fig-QA) | []() |
 | Visually Grounded Reasoning across Languages and Cultures | EMNLP 2021 | [2109.13238](https://arxiv.org/abs/2109.13238) | [Website](https://marvl-challenge.github.io/) | EMNLP 2021 Best Paper |
 |  |  | []() | []() | []() |
@@ -62,6 +63,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
+| Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 |  |  | []() | []() | []() |
 
 ### VLMs
