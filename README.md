@@ -13,6 +13,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Methodology](#methodology)
   * [Data](#data)
 * [Alignment](#alignment)
+* [Applications](#applications)
 
 
 ## Survey
@@ -64,6 +65,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
+| Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
+| Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales | EMNLP 2023 | [2023.emnlp-main.311](https://aclanthology.org/2023.emnlp-main.311/) | []() | []() |
 |  |  | []() | []() | []() |
 
 ### VLMs
@@ -78,6 +81,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Unintended Impacts of LLM Alignment on Global Representation | arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
+| Probing Pre-Trained Language Models for Cross-Cultural Differences in Values | C3NLP: EACL 2023 | [2203.13722](https://arxiv.org/abs/2203.13722) | []() | Analysis |
+| Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study | C3NLP: EACL 2023 | [2303.17466](https://arxiv.org/abs/2303.17466) | []() | Analysis |
 |  |  | []() | []() | []() |
 
 ## Methodology
@@ -86,6 +91,12 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Cultural Concept Adaptation on Multimodal Reasoning | EMNLP 2023 | [EMNLP Main 18](https://aclanthology.org/2023.emnlp-main.18.pdf) | []() | []() |
+|  |  | []() | []() | []() |
+
+## Applications
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks | EACL 2021 | [2006.09336](https://arxiv.org/abs/2006.09336) | []() | Sentiment Analysis |
 |  |  | []() | []() | []() |
 
 ## Contributing
