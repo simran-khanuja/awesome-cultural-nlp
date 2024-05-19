@@ -75,6 +75,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
 | Social Commonsense for Explanation and Cultural Bias Discovery |  | []() | []() | []() |
+|  |  | []() | []() | []() |
 
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
