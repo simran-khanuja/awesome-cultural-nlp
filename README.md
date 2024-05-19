@@ -10,6 +10,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Analysis](#analysis)
   * [Text-to-image](#text-to-image)
   * [LLMs](#llms)
+  * [VLMs](#vlms)
+  * [Cross-cultural Variations](#cross-cultural-variations)
 * [Methodology](#methodology)
   * [Data](#data)
 * [Alignment](#alignment)
@@ -25,13 +27,19 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies | arxiv 2024 | [2404.15238](https://arxiv.org/abs/2404.15238) | []() | []() |
-| NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
-| Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [EMNLP Findings 509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
+| CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies | Arxiv 2024 | [2404.15238](https://arxiv.org/abs/2404.15238) | []() | []() |
+| NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | Arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
+| Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys | EACL Findings 2024 | [2401.10352](https://arxiv.org/abs/2401.10352) | [Dataset](https://github.com/yongcaoplus/cuDialog) | []() |
+| Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [2023.findings-emnlp.509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
+| Global Voices, Local Biases: Socio-Cultural Prejudices across Languages | EMNLP 2023 | [2310.17586](https://arxiv.org/abs/2310.17586) | [Data](https://github.com/iamshnoo/weathub) | Data+Analysis
+| NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly | EMNLP 2023 | [2210.08604](https://arxiv.org/abs/2210.08604) | [Code and Data](https://github.com/yrf1/NormSage) | NormsKB
 | GeoDE: a Geographically Diverse Evaluation Dataset for Object Recognition | Neurips 2023 | [2301.02560](https://arxiv.org/abs/2301.02560) | [Code and Data](https://geodiverse-data-collection.cs.princeton.edu/) | []() |
 | SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models | ACL 2023 | [2305.11840](https://arxiv.org/pdf/2305.11840) | [Code](https://github.com/google-research-datasets/seegull) | []() |
 | Multi-lingual and Multi-cultural Figurative Language Understanding | ACL Findings 2023 | [2305.16171](https://arxiv.org/abs/2305.16171) | [Code](https://github.com/simran-khanuja/Multilingual-Fig-QA) | []() |
+| EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English | ACL Findings 2022 | [2203.14498](https://arxiv.org/abs/2203.14498) | []() | []() |
+| Re-contextualizing Fairness in NLP: The Case of India | AACL 2022 | [2209.12226](https://arxiv.org/abs/2209.12226) | [Data](https://github.com/google-research-datasets/nlp-fairness-for-india) | Data+Analysis
 | Visually Grounded Reasoning across Languages and Cultures | EMNLP 2021 | [2109.13238](https://arxiv.org/abs/2109.13238) | [Website](https://marvl-challenge.github.io/) | EMNLP 2021 Best Paper |
+| Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences | ACL 2020 | [2020.acl-main.477/](https://aclanthology.org/2020.acl-main.477/) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
@@ -53,11 +61,11 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation | ACL 2024 | [2401.06310](https://arxiv.org/abs/2401.06310) | []() | []() |
+| DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
 | Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV of Text-To-Image Models | arxiv 2023 | [2310.01929](https://arxiv.org/abs/2310.01929) | [Code (not released yet)](https://github.com/venturamor/CulText-2-I) | []() |
 | Inspecting the Geographical Representativeness of Images from Text-to-Image Models | ICCV 2023 | [2305.11080](https://arxiv.org/abs/2305.11080) | []() | []() |
 | Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale | FAccT '23 | [2211.03759](https://arxiv.org/abs/2211.03759) | []() | []() |
-| DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
-| ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation | arxiv 2024 | [2401.06310](https://arxiv.org/abs/2401.06310) | []() | []() |
 |  |  | []() | []() | []() |
 
 ### LLMs
@@ -66,13 +74,20 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
-| Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales | EMNLP 2023 | [2023.emnlp-main.311](https://aclanthology.org/2023.emnlp-main.311/) | []() | []() |
-|  |  | []() | []() | []() |
+| Social Commonsense for Explanation and Cultural Bias Discovery |  | []() | []() | []() |
 
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing | arxiv 2024 | [2402.06015](https://arxiv.org/pdf/2402.06015) | []() | []() |
+|  |  | []() | []() | []() |
+
+### Cross-cultural Variations
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales | EMNLP 2023 | [2023.emnlp-main.311](https://aclanthology.org/2023.emnlp-main.311/) | []() | []() |
+| Social Commonsense for Explanation and Cultural Bias Discovery | EACL 2023 | [2023.eacl-main.271.pdf](https://aclanthology.org/2023.eacl-main.271.pdf) | []() | []() |
+| Cross-cultural variation of speech-accompanying gesture: A review | Language and Cognitive Processes:  Volume 24, Issue 2, 2009 | [10.1080/01690960802586188](https://www.tandfonline.com/doi/abs/10.1080/01690960802586188) | []() | []() |
 |  |  | []() | []() | []() |
 
 
