@@ -29,6 +29,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies | Arxiv 2024 | [2404.15238](https://arxiv.org/abs/2404.15238) | []() | []() |
 | NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | Arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | []() | []() |
+| An image speaks a thousand words, but can everyone listen? On image transcreation for cultural relevance | Arxiv 2024 | [2404.01247](https://arxiv.org/abs/2404.01247) | [Code and Data](https://github.com/simran-khanuja/image-transcreation) | Data + Application
 | Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys | EACL Findings 2024 | [2401.10352](https://arxiv.org/abs/2401.10352) | [Dataset](https://github.com/yongcaoplus/cuDialog) | []() |
 | Culturally Aware Natural Language Inference | EMNLP 2023 (Findings) | [2023.findings-emnlp.509](https://aclanthology.org/2023.findings-emnlp.509.pdf) | [Data](https://github.com/SALT-NLP/CulturallyAwareNLI) | []() |
 | Global Voices, Local Biases: Socio-Cultural Prejudices across Languages | EMNLP 2023 | [2310.17586](https://arxiv.org/abs/2310.17586) | [Data](https://github.com/iamshnoo/weathub) | Data+Analysis
