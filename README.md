@@ -7,6 +7,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Image Captioning](#image-captioning)
 * [Models](#models)
   * [Vision and Language](#vision-and-language)
+* [Evaluation](#evaluation)
+  * [Text-to-image](#text-to-image)
 * [Analysis](#analysis)
   * [Text-to-image](#text-to-image)
   * [LLMs](#llms)
@@ -57,6 +59,15 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | GIVL: Improving Geographical Inclusivity of Vision-Language Models With Pre-Training Methods | CVPR 2023 | [2301.01893](https://arxiv.org/abs/2301.01893) | [Code (not released yet)](https://github.com/WadeYin9712/GIVL) | []() |
 |  |  | []() | []() | []() |
 
+## Evaluation
+
+### Text-to-image
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| On the Cultural Gap in Text-to-Image Generation | Arxiv 2023 | [2307.02971](https://arxiv.org/pdf/2307.02971) | [Code](https://github.com/longyuewangdcu/C3-Bench) | []() |
+|  |  | []() | []() | []() |
+
+
 ## Analysis
 
 ### Text-to-image
@@ -83,6 +94,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing | arxiv 2024 | [2402.06015](https://arxiv.org/pdf/2402.06015) | []() | []() |
+|‘Person’ == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion | EMNLP 2023 Findings | [2310.19981](https://arxiv.org/abs/2310.19981) | []() | []() |
 |  |  | []() | []() | []() |
 
 ### Cross-cultural Variations
