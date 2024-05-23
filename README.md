@@ -23,6 +23,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Towards Measuring and Modeling “Culture” in LLMs: A Survey | Arxiv 2024 | [2403.15412](https://arxiv.org/pdf/2403.15412) | [Github](https://github.com/faridlazuarda/cultural-llm-papers) | Cool paper! |
 | Challenges and Strategies in Cross-Cultural NLP | ACL 2022 | [2203.10020](https://arxiv.org/abs/2203.10020) | []() | []() |
 |  |  | []() | []() | []() |
 
