@@ -96,6 +96,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision–Language Models | Arxiv 2024 |[2405.13777](https://arxiv.org/pdf/2405.13777) | []() | []() |
 | Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing | arxiv 2024 | [2402.06015](https://arxiv.org/pdf/2402.06015) | []() | []() |
 |‘Person’ == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion | EMNLP 2023 Findings | [2310.19981](https://arxiv.org/abs/2310.19981) | []() | []() |
 |  |  | []() | []() | []() |
