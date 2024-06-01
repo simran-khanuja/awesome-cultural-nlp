@@ -17,6 +17,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Methodology](#methodology)
   * [Data](#data)
 * [Alignment](#alignment)
+  * [Model](#model)
+  * [Data](#data)
 * [Applications](#applications)
 
 
@@ -87,6 +89,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
+| Having Beer after Prayer? Measuring Cultural Bias in Large Language Models | ACL 2024 | [2305.14456](https://arxiv.org/pdf/2305.14456) |  [Code](https://github.com/tareknaous/camel) | []() | 
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
 | Social Commonsense for Explanation and Cultural Bias Discovery |  | []() | []() | []() |
@@ -96,7 +99,9 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Multilingual Diversity Improves Vision-Language Representations | Arxiv 2024 | [2405.16915](https://arxiv.org/pdf/2405.16915) | []() | []() |
 | No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision–Language Models | Arxiv 2024 |[2405.13777](https://arxiv.org/pdf/2405.13777) | []() | []() |
+| Computer Vision Datasets and Models Exhibit Cultural and Linguistic Diversity in Perception | Arxiv 2024 | [2310.14356](https://arxiv.org/pdf/2310.14356) | []() | []() |
 | Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing | arxiv 2024 | [2402.06015](https://arxiv.org/pdf/2402.06015) | []() | []() |
 |‘Person’ == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion | EMNLP 2023 Findings | [2310.19981](https://arxiv.org/abs/2310.19981) | []() | []() |
 |  |  | []() | []() | []() |
@@ -112,12 +117,20 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 
 
 ## Alignment
+
+### Models
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Unintended Impacts of LLM Alignment on Global Representation | arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
 | Probing Pre-Trained Language Models for Cross-Cultural Differences in Values | C3NLP: EACL 2023 | [2203.13722](https://arxiv.org/abs/2203.13722) | []() | Analysis |
 | Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study | C3NLP: EACL 2023 | [2303.17466](https://arxiv.org/abs/2303.17466) | []() | Analysis |
 |  |  | []() | []() | []() |
+
+### Data
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| NLPositionality: Characterizing Design Biases of Datasets and Models | ACL 2023 (Outstanding Paper) | [2023.acl-long.505.pdf](https://aclanthology.org/2023.acl-long.505.pdf) | [Website](https://nlpositionality.cs.washington.edu/) | []() |
+
 
 ## Methodology
 
