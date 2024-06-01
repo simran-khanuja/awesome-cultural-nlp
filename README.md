@@ -121,9 +121,10 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### Models
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| Unintended Impacts of LLM Alignment on Global Representation | arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
-| Probing Pre-Trained Language Models for Cross-Cultural Differences in Values | C3NLP: EACL 2023 | [2203.13722](https://arxiv.org/abs/2203.13722) | []() | Analysis |
+| Investigating Cultural Alignment of Large Language Models | Arxiv 2024 | [2402.13231](https://arxiv.org/pdf/2402.13231) | []() | []() |
+| Unintended Impacts of LLM Alignment on Global Representation | Arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
 | Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study | C3NLP: EACL 2023 | [2303.17466](https://arxiv.org/abs/2303.17466) | []() | Analysis |
+| Probing Pre-Trained Language Models for Cross-Cultural Differences in Values | C3NLP: EACL 2023 | [2203.13722](https://arxiv.org/abs/2203.13722) | []() | Analysis |
 |  |  | []() | []() | []() |
 
 ### Data
