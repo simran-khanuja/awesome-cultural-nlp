@@ -68,9 +68,18 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 
 ## Evaluation
 
+### LLMs
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Cultural Conditioning or Placebo? On the Effectiveness of Socio-Demographic Prompting | Arxiv 2024 | [2406.11661](https://arxiv.org/pdf/2406.11661) | []() | []() |
+| Extrinsic Evaluation of Cultural Competence in Large Language Models | Arxiv 2024 | [2406.11565](https://arxiv.org/pdf/2406.11565) | []() | []() |
+| Having Beer after Prayer? Measuring Cultural Bias in Large Language Models | ACL 2024 | [2305.14456](https://arxiv.org/pdf/2305.14456) |  [Code](https://github.com/tareknaous/camel) | []() | 
+|  |  | []() | []() | []() |
+
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention | Arxiv 2024 | [2407.00377v1](https://arxiv.org/pdf/2407.00377v1) | []() | []() |
 | On the Cultural Gap in Text-to-Image Generation | Arxiv 2023 | [2307.02971](https://arxiv.org/pdf/2307.02971) | [Code](https://github.com/longyuewangdcu/C3-Bench) | []() |
 |  |  | []() | []() | []() |
 
@@ -93,7 +102,6 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
-| Having Beer after Prayer? Measuring Cultural Bias in Large Language Models | ACL 2024 | [2305.14456](https://arxiv.org/pdf/2305.14456) |  [Code](https://github.com/tareknaous/camel) | []() | 
 | Knowledge of cultural moral norms in large language models | ACL 2023 | [2306.01857](https://arxiv.org/abs/2306.01857) | []() | []() |
 | Multilingual Language Models are not Multicultural: A Case Study in Emotion | WASSA: ACL 2023 | [2307.01370](https://arxiv.org/abs/2307.01370) | []() | []() |
 | Social Commonsense for Explanation and Cultural Bias Discovery |  | []() | []() | []() |
