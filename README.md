@@ -8,6 +8,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 * [Models](#models)
   * [Vision and Language](#vision-and-language)
 * [Evaluation](#evaluation)
+  * [LLMs](#llms)
   * [Text-to-image](#text-to-image)
 * [Analysis](#analysis)
   * [Text-to-image](#text-to-image)
