@@ -103,7 +103,6 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
 | ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation | ACL 2024 | [2401.06310](https://arxiv.org/abs/2401.06310) | []() | []() |
 | DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
 | Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis | JAIR 2023 | [2209.08891](https://arxiv.org/abs/2209.08891) | [Code](https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs) | []() |
@@ -116,6 +115,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### LLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
 | Exploring Changes in Nation Perception with Nationality-Assigned
 Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) | []() | []() |
 | CULTURE-GEN: Revealing Global Cultural Perception in Language Models through Natural Language Prompting | Arxiv 2024 | [2404.10199v1](https://arxiv.org/abs/2404.10199v1) | [Code](https://github.com/huihanlhh/Culture-Gen/) | []() |
