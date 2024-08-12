@@ -35,7 +35,10 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies | Arxiv 2024 | [2404.15238](https://arxiv.org/abs/2404.15238) | []() | []() |
+| Vision-Language Models under Cultural and Inclusive Considerations | Arxiv 2024 | [2407.06177](https://arxiv.org/pdf/2407.06177) | []() | []() |
+| Beyond Aesthetics: Cultural Competence in Text-to-Image Models | Arxiv 2024 | [2407.06863](https://arxiv.org/pdf/2407.06863) | [Data](https://github.com/google-research-datasets/cube) | Data |
+| Vision-Language Models under Cultural and Inclusive Considerations | Arxiv 2024 | [2407.06177](https://arxiv.org/pdf/2407.06177) | []() | []() |
+| M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks | Arxiv 2024 | [2407.03791](https://arxiv.org/pdf/2407.03791) | []() | []() |
 | NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | Arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | [Data](https://github.com/Akhila-Yerukola/NormAd) | Data |
 | An image speaks a thousand words, but can everyone listen? On image transcreation for cultural relevance | Arxiv 2024 | [2404.01247](https://arxiv.org/abs/2404.01247) | [Code and Data](https://github.com/simran-khanuja/image-transcreation) | Data + Application
 | No Culture Left Behind: Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking on 1000+ Sub-Country Regions and 2000+ Ethnolinguistic Groups | Arxiv 2024 | [2402.09369v1](https://arxiv.org/pdf/2402.09369v1) | [Data](https://github.com/yrf1/LLM-MassiveMulticultureNormsKnowledge-NCLB) | []() |
@@ -100,6 +103,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning | ACL 2024 | [2405.12744](https://arxiv.org/pdf/2405.12744) | []() | []() |
 | ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation | ACL 2024 | [2401.06310](https://arxiv.org/abs/2401.06310) | []() | []() |
 | DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity | ICLR 2024 | [2308.06198](https://arxiv.org/pdf/2308.06198) | [Code](https://github.com/facebookresearch/DIG-In/) | []() |
 | Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis | JAIR 2023 | [2209.08891](https://arxiv.org/abs/2209.08891) | [Code](https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs) | []() |
