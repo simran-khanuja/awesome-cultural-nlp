@@ -35,6 +35,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages | NeurIPS D&B 2024 | [2406.09948](https://arxiv.org/abs/2406.09948) | [Code and Data](https://github.com/nlee0212/BLEnD) | Data |
 | Vision-Language Models under Cultural and Inclusive Considerations | Arxiv 2024 | [2407.06177](https://arxiv.org/pdf/2407.06177) | []() | []() |
 | Beyond Aesthetics: Cultural Competence in Text-to-Image Models | Arxiv 2024 | [2407.06863](https://arxiv.org/pdf/2407.06863) | [Data](https://github.com/google-research-datasets/cube) | Data |
 | M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks | Arxiv 2024 | [2407.03791](https://arxiv.org/pdf/2407.03791) | []() | []() |
