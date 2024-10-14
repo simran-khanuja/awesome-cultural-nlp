@@ -84,6 +84,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge | Arxiv 2024 | [2404.06664](https://arxiv.org/pdf/2404.06664) | []() | []() |
 | Having Beer after Prayer? Measuring Cultural Bias in Large Language Models | ACL 2024 | [2305.14456](https://arxiv.org/pdf/2305.14456) |  [Code](https://github.com/tareknaous/camel) | []() | 
 |  |  | []() | []() | []() |
+| Large language models, social demography, and hegemony: comparing authorship in human and synthetic text | Journal of Big Data | [10.1186/s40537-024-00986-7](https://link.springer.com/article/10.1186/s40537-024-00986-7) |  []() | []() | 
+|  |  | []() | []() | []() |
 
 ### Text-to-image
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
