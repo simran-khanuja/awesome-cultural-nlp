@@ -154,6 +154,7 @@ Personas in LLMs | Arxiv 2024 | [2406.13993](https://arxiv.org/pdf/2406.13993) |
 ### Models
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| CultureLLM: Incorporating Cultural Differences into Large Language Models | NeurIPS 2024 | [2402.10946](https://arxiv.org/abs/2402.10946) | [Code](https://github.com/Scarelette/CultureLLM) | []() |
 | Investigating Cultural Alignment of Large Language Models | Arxiv 2024 | [2402.13231](https://arxiv.org/pdf/2402.13231) | []() | []() |
 | Unintended Impacts of LLM Alignment on Global Representation | Arxiv 2024 | [2402.15018](https://arxiv.org/abs/2402.15018) | []() | []() |
 | Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study | C3NLP: EACL 2023 | [2303.17466](https://arxiv.org/abs/2303.17466) | []() | Analysis |
