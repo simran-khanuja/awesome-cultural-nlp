@@ -36,6 +36,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines | Arxiv 2024 | [2410.12705](https://arxiv.org/pdf/2410.12705) | [Code, Data, and Leaderboard](https://worldcuisines.github.io/) | Data |
+|FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture| EMNLP 2024 | https://aclanthology.org/2024.emnlp-main.1063/ | [Code](https://github.com/lyan62/FoodieQA) [Data](https://huggingface.co/datasets/lyan62/FoodieQA)| Data|
 | BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages | NeurIPS D&B 2024 | [2406.09948](https://arxiv.org/abs/2406.09948) | [Code and Data](https://github.com/nlee0212/BLEnD) | Data |
 | Vision-Language Models under Cultural and Inclusive Considerations | Arxiv 2024 | [2407.06177](https://arxiv.org/pdf/2407.06177) | []() | []() |
 | Beyond Aesthetics: Cultural Competence in Text-to-Image Models | Arxiv 2024 | [2407.06863](https://arxiv.org/pdf/2407.06863) | [Data](https://github.com/google-research-datasets/cube) | Data |
