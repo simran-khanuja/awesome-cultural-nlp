@@ -60,6 +60,8 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Re-contextualizing Fairness in NLP: The Case of India | AACL 2022 | [2209.12226](https://arxiv.org/abs/2209.12226) | [Data](https://github.com/google-research-datasets/nlp-fairness-for-india) | Data+Analysis
 | Visually Grounded Reasoning across Languages and Cultures | EMNLP 2021 | [2109.13238](https://arxiv.org/abs/2109.13238) | [Website](https://marvl-challenge.github.io/) | EMNLP 2021 Best Paper |
 | Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences | ACL 2020 | [2020.acl-main.477/](https://aclanthology.org/2020.acl-main.477/) | []() | []() |
+| SocialDial: A Benchmark for Socially-Aware Dialogue Systems | SIGIR 2023 | [3539618.3591877](https://dl.acm.org/doi/10.1145/3539618.3591877) | [Data](https://github.com/zhanhl316/SocialDial) | Data+Analysis+New Application |
+| RENOVI: A Benchmark Towards Remediating Norm Violations in Socio-Cultural Conversations | NAACL Findings 2024 | [2024.findings-naacl.196](https://aclanthology.org/2024.findings-naacl.196/) | [Data](https://github.com/zhanhl316/ReNoVi) | Data+Analysis+New Application |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
