@@ -35,12 +35,13 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ## Dataset
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines | Arxiv 2024 | [2410.12705](https://arxiv.org/pdf/2410.12705) | [Code, Data, and Leaderboard](https://worldcuisines.github.io/) | Data |
 |FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture| EMNLP 2024 | https://aclanthology.org/2024.emnlp-main.1063/ | [Code](https://github.com/lyan62/FoodieQA) [Data](https://huggingface.co/datasets/lyan62/FoodieQA)| Data|
 | BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages | NeurIPS D&B 2024 | [2406.09948](https://arxiv.org/abs/2406.09948) | [Code and Data](https://github.com/nlee0212/BLEnD) | Data |
 | Vision-Language Models under Cultural and Inclusive Considerations | Arxiv 2024 | [2407.06177](https://arxiv.org/pdf/2407.06177) | []() | []() |
 | Beyond Aesthetics: Cultural Competence in Text-to-Image Models | Arxiv 2024 | [2407.06863](https://arxiv.org/pdf/2407.06863) | [Data](https://github.com/google-research-datasets/cube) | Data |
-| M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks | Arxiv 2024 | [2407.03791](https://arxiv.org/pdf/2407.03791) | []() | []() |
+| M5 -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks | Arxiv 2024 | [2407.03791](https://arxiv.org/pdf/2407.03791) | [floschne/m5b](https://github.com/floschne/m5b) | [HF Datasets](https://huggingface.co/floschne) |
 | Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art | Arxiv 2024 | [2406.03930](https://arxiv.org/pdf/2406.03930) | []() | []() |
 | NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models | Arxiv 2024 | [2404.12464](https://arxiv.org/abs/2404.12464) | [Data](https://github.com/Akhila-Yerukola/NormAd) | Data |
 | An image speaks a thousand words, but can everyone listen? On image transcreation for cultural relevance | Arxiv 2024 | [2404.01247](https://arxiv.org/abs/2404.01247) | [Code and Data](https://github.com/simran-khanuja/image-transcreation) | Data + Application
@@ -87,7 +88,6 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 | Extrinsic Evaluation of Cultural Competence in Large Language Models | Arxiv 2024 | [2406.11565](https://arxiv.org/pdf/2406.11565) | []() | []() |
 | CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs’ (Lack of) Multicultural Knowledge | Arxiv 2024 | [2404.06664](https://arxiv.org/pdf/2404.06664) | []() | []() |
 | Having Beer after Prayer? Measuring Cultural Bias in Large Language Models | ACL 2024 | [2305.14456](https://arxiv.org/pdf/2305.14456) |  [Code](https://github.com/tareknaous/camel) | []() | 
-|  |  | []() | []() | []() |
 | Large language models, social demography, and hegemony: comparing authorship in human and synthetic text | Journal of Big Data | [10.1186/s40537-024-00986-7](https://link.springer.com/article/10.1186/s40537-024-00986-7) |  []() | []() | 
 |  |  | []() | []() | []() |
 
@@ -101,6 +101,7 @@ A curated list of awesome cultural NLP resources, inspired by [awesome-computer-
 ### VLMs
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking | Arxiv 2025 | [2502.13766](https://arxiv.org/abs/2502.13766) | [floschne/gimmick](https://github.com/floschne/gimmick) | [HF Datasets](https://huggingface.co/floschne) | 
 | From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models | Arxiv 2024 | [2407.00263](https://arxiv.org/pdf/2407.00263) | []() | []() |
 |  |  | []() | []() | []() |
 
